@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Patient‑Centric AI Risk: Article and Code"
+message: "If you use this repository, please cite it using the metadata below."
+authors:
+  - family-names: Kharchevnikov
+    given-names: Dmitrii
+  - family-names: Lipskiy
+    given-names: Nikolay
+license: MIT
+repository-code: https://github.com/OWNER/REPO
+version: 1.0.0
+date-released: 2025-09-13
